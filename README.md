@@ -51,3 +51,27 @@ direction TB
 1. Clone this repository:
    ```bash
 	https://github.com/cavalcantedouglas/desafio-uml.git
+   ```
+
+2. Enter the folder
+   ```bash
+   cd desafio-uml
+   ```
+
+3. Compile and run:
+   ```bash
+   javac *.java
+   java Main
+   ```
+## Files
+- `iPhone.java`: Main class with composition.
+- `WebBrowser.java`: Browsing features.
+- `TelephoneDevice.java`: Phone functionality.
+- `MusicPlayer.java`: Music controls.
+- `Main.java`: Demo program.
+
+## Inpiration
+Based on Steve Jobs’ 2007 iPhone keynote, highlighting “a phone, an iPod, and an internet device.”
+
+## Author
+- [Douglas Cavalcante](https://github.com/cavalcantedouglas) (Java and UML practice)
