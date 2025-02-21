@@ -50,3 +50,4 @@ direction TB
 ## How to Run
 1. Clone this repository:
    ```bash
+	https://github.com/cavalcantedouglas/desafio-uml.git
